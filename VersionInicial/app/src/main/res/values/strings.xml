@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistema de Afiliación</string>
+    <string-array name="array_extensiones">
+        <item name="LP">La Paz (LP)</item>
+        <item name="CB">Cochabamba (CB)</item>
+        <item name="SC">Santa Cruz (SC)</item>
+        <item name="OR">Oruro (OR)</item>
+        <item name="PO">Potosí (PO)</item>
+        <item name="TJ">Tarija (TJ)</item>
+        <item name="BE">Beni (BE)</item>
+        <item name="PA">Pando (PA)</item>
+        <item name="CH">Chuquisaca (CH)</item>
+        <item name="PE">Extranjero (PE)</item>
+    </string-array>
+
+</resources>
